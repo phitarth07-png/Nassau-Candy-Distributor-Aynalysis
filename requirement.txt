@@ -1,4 +1,4 @@
-streamlit
-pandas
-matplotlib
-plotly
+matplotlib==3.9.4
+pandas==2.2.3
+plotly==6.1.2
+streamlit==1.48.0
