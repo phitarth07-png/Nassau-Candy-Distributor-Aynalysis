@@ -1,0 +1,159 @@
+DAY 10 – FINAL BUSINESS INSIGHTS
+
+Highest Sales Product:
+Wonka Bar - Triple Dazzle Caramel
+
+Highest Gross Profit Product:
+Wonka Bar - Triple Dazzle Caramel
+
+Highest Cost Product:
+Wonka Bar - Triple Dazzle Caramel
+
+Best Profit Margin Product:
+Everlasting Gobstopper
+
+
+GRAPH LIST
+
+Graph 1 – Top 10 Products by Sales
+Graph 2 – Top 10 Products by Gross Profit
+Graph 3 – Sales vs Gross Profit
+Graph 4 – Top 10 Products by Cost
+Graph 5 – Sales vs Cost
+Graph 6 – Top 10 Products by Profit Margin
+
+
+CONCLUSION
+
+Wonka Bar - Triple Dazzle Caramel performed strongly in terms of sales and gross profit,
+ while Everlasting Gobstopper achieved the best profit margin. The analysis helps identify
+ high-performing products and supports better business decision-making.
+
+
+PROJECT INTRODUCTION
+
+This project focuses on analyzing the sales performance of Nassau Candy Distributor using Python
+ and data analysis techniques. The dataset contains product-level business information such as Sales,
+ Cost, and Gross Profit. The project analyzes this data to identify top-performing products, compare sales
+ and profit, analyze costs, and determine products with better profit margins.
+
+
+PROJECT OBJECTIVES
+
+1. To analyze the sales performance of different products.
+2. To identify products with the highest sales and gross profit.
+3. To analyze product costs and compare them with sales.
+4. To identify products with the best profit margins.
+5. To visualize important business information using graphs.
+6. To generate useful insights for better business decision-making.
+
+
+PROJECT OVERVIEW
+
+This project analyzes the business performance of Nassau Candy Distributor
+ using Python and data analysis techniques. The project focuses on product-wise
+ Sales, Cost, Gross Profit, and Profit Margin. The analysis uses data processing and 
+visualization to identify high-performing products and generate useful business insights.
+
+
+DATASET DESCRIPTION
+
+The dataset contains product-level information from Nassau Candy Distributor.
+ It includes important business fields such as Product Name, Sales, Cost, and Gross Profit. 
+These fields are used to analyze product performance, compare financial values, and calculate profit margins.
+
+
+DATA ANALYSIS METHODS
+
+The project uses different data analysis methods to understand product performance. 
+The analysis includes calculating Total Sales, Total Cost, and Total Gross Profit.
+ Product-wise Sales, Gross Profit, and Cost are compared to identify top-performing products.
+ Profit Margin is also calculated to identify products with better profitability.
+
+
+TOOLS AND TECHNOLOGIES
+
+Python
+Pandas
+Matplotlib
+CSV Dataset
+Visual Studio Code
+
+
+ANALYSIS RESULTS
+
+Highest Sales Product:
+Wonka Bar - Triple Dazzle Caramel
+
+Highest Gross Profit Product:
+Wonka Bar - Triple Dazzle Caramel
+
+Highest Cost Product:
+Wonka Bar - Triple Dazzle Caramel
+
+Best Profit Margin Product:
+Everlasting Gobstopper
+
+
+PROJECT METHODOLOGY
+
+The project follows a structured data analysis process.
+ First, the Nassau Candy Distributor dataset is loaded using Python and Pandas. 
+The data is then examined for its structure, missing values, duplicate records, and data types.
+ After preparing the data, product-wise Sales, Cost, Gross Profit, and Profit Margin are analyzed. 
+Finally, Matplotlib is used to create graphs and visualize the results.
+
+
+DATA CLEANING PROCESS
+
+The dataset was checked for missing values, duplicate records, data types, and unique values.
+ Basic data inspection was performed before analysis to ensure that the dataset was suitable for 
+further calculations and visualization.
+
+
+DATA VISUALIZATION EXPLANATION
+
+Graph 1 shows the top 10 products based on total sales.
+
+Graph 2 shows the top 10 products based on gross profit.
+
+Graph 3 compares sales and gross profit for the top 10 products.
+
+Graph 4 shows the top 10 products based on total cost.
+
+Graph 5 compares sales and cost for the top 10 products.
+
+Graph 6 shows the top 10 products based on profit margin.
+
+
+BUSINESS INSIGHTS EXPLANATION
+
+The analysis shows that Wonka Bar - Triple Dazzle Caramel is the leading
+ product in terms of Sales and Gross Profit.
+ It also has the highest total Cost among the analyzed products.
+ Everlasting Gobstopper has the highest Profit Margin, indicating stronger
+ profitability relative to its sales.
+
+These findings help identify products that contribute strongly to sales
+ and profit and products that perform well in terms of profit margin.
+
+
+FINAL CONCLUSION
+
+The project successfully analyzed the sales performance of Nassau Candy Distributor using Python
+ and data analysis techniques. The analysis of Sales, Cost, Gross Profit, and Profit Margin helped 
+identify the best-performing products and provided useful business insights. The visualizations made it
+ easier to understand product performance and compare important business metrics.
+
+
+FUTURE SCOPE
+
+The project can be further improved by adding interactive dashboards,
+ monthly and yearly sales analysis, customer-level analysis, and automated reports.
+ Advanced data analysis and machine learning techniques can also be used in the future to predict 
+sales and identify future business trends.
+
+
+
+
+
